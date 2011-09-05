@@ -1,1 +1,5 @@
-hola mundo
+Ultima versión de subida:
+MODIFICACIONES
+Proveedores: funcionando Listar, Buscar y Agregar.
+Tabla modificada UUID se cambio de Int a String (permite indexado mas rapido)
+Relación entre cliente - proveedor eliminada del agregar proveedor. Son métodos a parte aunque no veo necesario.
